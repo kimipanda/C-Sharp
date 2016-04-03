@@ -1,0 +1,9 @@
+c:\users\panda\documents\visual studio 2015\Projects\ImageOpacityMerging\ImageOpacityMerging\bin\Debug\ImageOpacityMerging.exe
+c:\users\panda\documents\visual studio 2015\Projects\ImageOpacityMerging\ImageOpacityMerging\bin\Debug\ImageOpacityMerging.pdb
+c:\users\panda\documents\visual studio 2015\Projects\ImageOpacityMerging\ImageOpacityMerging\obj\Debug\ImageOpacityMerging.csprojResolveAssemblyReference.cache
+c:\users\panda\documents\visual studio 2015\Projects\ImageOpacityMerging\ImageOpacityMerging\obj\Debug\ImageOpacityMerging.Form1.resources
+c:\users\panda\documents\visual studio 2015\Projects\ImageOpacityMerging\ImageOpacityMerging\obj\Debug\ImageOpacityMerging.Properties.Resources.resources
+c:\users\panda\documents\visual studio 2015\Projects\ImageOpacityMerging\ImageOpacityMerging\obj\Debug\ImageOpacityMerging.csproj.GenerateResource.Cache
+c:\users\panda\documents\visual studio 2015\Projects\ImageOpacityMerging\ImageOpacityMerging\obj\Debug\ImageOpacityMerging.exe
+c:\users\panda\documents\visual studio 2015\Projects\ImageOpacityMerging\ImageOpacityMerging\obj\Debug\ImageOpacityMerging.pdb
+c:\users\panda\documents\visual studio 2015\Projects\ImageOpacityMerging\ImageOpacityMerging\bin\Debug\ImageOpacityMerging.exe.config
