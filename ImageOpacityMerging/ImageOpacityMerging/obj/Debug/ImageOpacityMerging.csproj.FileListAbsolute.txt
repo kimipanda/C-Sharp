@@ -7,3 +7,12 @@ c:\users\panda\documents\visual studio 2015\Projects\ImageOpacityMerging\ImageOp
 c:\users\panda\documents\visual studio 2015\Projects\ImageOpacityMerging\ImageOpacityMerging\obj\Debug\ImageOpacityMerging.exe
 c:\users\panda\documents\visual studio 2015\Projects\ImageOpacityMerging\ImageOpacityMerging\obj\Debug\ImageOpacityMerging.pdb
 c:\users\panda\documents\visual studio 2015\Projects\ImageOpacityMerging\ImageOpacityMerging\bin\Debug\ImageOpacityMerging.exe.config
+C:\Users\panda\Documents\GitHub\C-Sharp\ImageOpacityMerging\ImageOpacityMerging\bin\Debug\ImageOpacityMerging.exe.config
+C:\Users\panda\Documents\GitHub\C-Sharp\ImageOpacityMerging\ImageOpacityMerging\obj\Debug\ImageOpacityMerging.exe
+C:\Users\panda\Documents\GitHub\C-Sharp\ImageOpacityMerging\ImageOpacityMerging\obj\Debug\ImageOpacityMerging.pdb
+C:\Users\panda\Documents\GitHub\C-Sharp\ImageOpacityMerging\ImageOpacityMerging\bin\Debug\ImageOpacityMerging.exe
+C:\Users\panda\Documents\GitHub\C-Sharp\ImageOpacityMerging\ImageOpacityMerging\bin\Debug\ImageOpacityMerging.pdb
+C:\Users\panda\Documents\GitHub\C-Sharp\ImageOpacityMerging\ImageOpacityMerging\obj\Debug\ImageOpacityMerging.csprojResolveAssemblyReference.cache
+C:\Users\panda\Documents\GitHub\C-Sharp\ImageOpacityMerging\ImageOpacityMerging\obj\Debug\ImageOpacityMerging.Form1.resources
+C:\Users\panda\Documents\GitHub\C-Sharp\ImageOpacityMerging\ImageOpacityMerging\obj\Debug\ImageOpacityMerging.Properties.Resources.resources
+C:\Users\panda\Documents\GitHub\C-Sharp\ImageOpacityMerging\ImageOpacityMerging\obj\Debug\ImageOpacityMerging.csproj.GenerateResource.Cache
